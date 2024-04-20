@@ -1,0 +1,73 @@
+[
+    {
+      "id": 21,
+      "name": "Double-Walled Glass Mug",
+      "price": 12.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/glass-mug.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Espresso Shot Glass",
+      "price": 4.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/espresso-glass.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Latte Glass Cup",
+      "price": 9.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/latte-glass.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Cappuccino Glass Set",
+      "price": 16.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/cappuccino-glass.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Clear Glass Coffee Mug",
+      "price": 7.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/clear-mug.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Turkish Coffee Cup",
+      "price": 5.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/turkish-coffee-cup.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Insulated Travel Tumbler",
+      "price": 19.99,
+      "type": "Travel Mugs",
+      "imgUrl": "https://example.com/travel-tumbler.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Iced Coffee Glass",
+      "price": 8.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/iced-coffee-glass.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Glass Cold Brew Bottle",
+      "price": 14.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/cold-brew-bottle.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Double Espresso Glass",
+      "price": 6.99,
+      "type": "Glassware",
+      "imgUrl": "https://example.com/double-espresso-glass.jpg"
+    }
+  ]
+  

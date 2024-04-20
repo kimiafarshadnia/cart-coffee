@@ -1,0 +1,73 @@
+[
+	{
+	  "id": 11,
+	  "name": "AeroPress Coffee Maker",
+	  "price": 29.99,
+	  "type": "Brewing Equipment",
+	  "imgUrl": "https://example.com/aeropress.jpg"
+	},
+	{
+	  "id": 12,
+	  "name": "Hario V60 Pour-Over Kit",
+	  "price": 19.99,
+	  "type": "Brewing Equipment",
+	  "imgUrl": "https://example.com/hario-v60.jpg"
+	},
+	{
+	  "id": 13,
+	  "name": "Coffee Grinder",
+	  "price": 49.99,
+	  "type": "Grinders",
+	  "imgUrl": "https://example.com/coffee-grinder.jpg"
+	},
+	{
+	  "id": 14,
+	  "name": "Milk Frother",
+	  "price": 14.99,
+	  "type": "Milk Frothers",
+	  "imgUrl": "https://example.com/milk-frother.jpg"
+	},
+	{
+	  "id": 15,
+	  "name": "Espresso Tamper",
+	  "price": 9.99,
+	  "type": "Barista Tools",
+	  "imgUrl": "https://example.com/espresso-tamper.jpg"
+	},
+	{
+	  "id": 16,
+	  "name": "Coffee Scale",
+	  "price": 19.99,
+	  "type": "Measuring Tools",
+	  "imgUrl": "https://example.com/coffee-scale.jpg"
+	},
+	{
+	  "id": 17,
+	  "name": "Travel Coffee Mug",
+	  "price": 12.99,
+	  "type": "Travel Accessories",
+	  "imgUrl": "https://example.com/travel-coffee-mug.jpg"
+	},
+	{
+	  "id": 18,
+	  "name": "Coffee Storage Canister",
+	  "price": 16.99,
+	  "type": "Storage Containers",
+	  "imgUrl": "https://example.com/coffee-storage-canister.jpg"
+	},
+	{
+	  "id": 19,
+	  "name": "French Press",
+	  "price": 27.99,
+	  "type": "Brewing Equipment",
+	  "imgUrl": "https://example.com/french-press.jpg"
+	},
+	{
+	  "id": 20,
+	  "name": "Coffee Spoon Set",
+	  "price": 7.99,
+	  "type": "Barista Tools",
+	  "imgUrl": "https://example.com/coffee-spoon-set.jpg"
+	}
+  ]
+  

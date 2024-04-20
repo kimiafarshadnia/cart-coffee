@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Espresso",
+      "price": 2.99,
+      "type": "Strong",
+      "imgUrl": "https://example.com/espresso.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "price": 3.49,
+      "type": "Creamy",
+      "imgUrl": "https://example.com/cappuccino.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "price": 3.99,
+      "type": "Mild",
+      "imgUrl": "https://example.com/latte.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Americano",
+      "price": 2.79,
+      "type": "Medium",
+      "imgUrl": "https://example.com/americano.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mocha",
+      "price": 4.29,
+      "type": "Sweet",
+      "imgUrl": "https://example.com/mocha.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Macchiato",
+      "price": 3.19,
+      "type": "Light",
+      "imgUrl": "https://example.com/macchiato.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Turkish Coffee",
+      "price": 3.79,
+      "type": "Strong",
+      "imgUrl": "https://example.com/turkish-coffee.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Iced Coffee",
+      "price": 3.49,
+      "type": "Cool",
+      "imgUrl": "https://example.com/iced-coffee.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Decaf",
+      "price": 3.19,
+      "type": "Mild",
+      "imgUrl": "https://example.com/decaf.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Irish Coffee",
+      "price": 4.99,
+      "type": "Boozy",
+      "imgUrl": "https://example.com/irish-coffee.jpg"
+    }
+  ]
+  
