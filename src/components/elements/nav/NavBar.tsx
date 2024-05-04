@@ -6,8 +6,8 @@ import {
     NavbarBrand,
     Nav
 } from 'reactstrap';
-import { menuItems } from '../../../data/menu';
-import MenuItem from './MenuItems';
+import { MenuItems } from '../../../data/menu';
+import MenuItem from './MenuItem';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping, faSearch } from '@fortawesome/free-solid-svg-icons';
 import { useCartContext } from '../../../context/CartContext';
@@ -27,7 +27,7 @@ const NavBar = () => {
             <Collapse isOpen={isOpen} navbar>
                 <Nav navbar>
 
-                    {menuItems.map((menu) => (
+                    {MenuItems.map((menu) => (
                         <MenuItem menu={menu} key={uid()}/>
                     )
                     )}

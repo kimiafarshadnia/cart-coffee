@@ -9,7 +9,8 @@ import {
 import { uid
  } from '../../../utils/Utils';
 
-const MenuItem = ({ menu }) => {
+
+const MenuItem = ({ menu } : any) => {
     const LinkTag = ({
         isLink,
         ...props
@@ -42,7 +43,7 @@ const MenuItem = ({ menu }) => {
                             {menu.label}
                         </DropdownToggle>
                         <DropdownMenu>
-                            {menu.subs?.map((sub) =>
+                            {menu.subs?.map((sub: any) =>
                             (
                                 <DropdownItem key={uid()}>
                                     <NavLink
